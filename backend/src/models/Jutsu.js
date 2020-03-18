@@ -1,0 +1,1 @@
+export const Jutsu = ['Ninjutsu','Genjutsu', 'Taijutsu'];

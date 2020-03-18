@@ -1,0 +1,1 @@
+export const Nivel = [ 'S', 'A', 'B', 'C' ];
