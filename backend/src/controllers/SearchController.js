@@ -1,4 +1,4 @@
-const Heroina = require('../models/Heroina');
+const Heroina = require('../models/beans/Heroina');
 const parseStringAsArray = require('../utils/parseStringAsArray');
 
 module.exports = {

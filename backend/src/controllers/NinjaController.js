@@ -1,4 +1,4 @@
-const Ninja = require('../models/Ninja');
+const Ninja = require('../models/beans/Ninja');
 const parseStringAsArray = require('../utils/parseStringAsArray');
 
 module.exports = {

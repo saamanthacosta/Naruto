@@ -1,1 +1,0 @@
-export const Aldeia = [ 'Folha', 'Chuva', 'Pedra', 'Areia', 'Nuvem', 'Som' ];
