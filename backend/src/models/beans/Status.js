@@ -1,0 +1,1 @@
+module.exports = Status = [ 'Aprovada', 'Em análise', 'Reprovada', 'Realizada'];

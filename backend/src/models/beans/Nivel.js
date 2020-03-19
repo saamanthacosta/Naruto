@@ -1,0 +1,1 @@
+module.exports = Nivel = [ 'S', 'A', 'B', 'C', 'D' ];
